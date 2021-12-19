@@ -29,4 +29,3 @@ def grade (mark):
     print (honours, message, first_name, last_name)
     
 
-grade (mark)
